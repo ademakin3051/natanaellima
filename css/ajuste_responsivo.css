@@ -1,0 +1,20 @@
+
+@media (max-width: 1000px) {
+  .slider-item {
+      grid-template-rows: auto auto;
+  }
+  .slider-item .text {
+    grid-row: 1;
+    margin-top: -320px;
+    margin-bottom: 250px;
+ 
+
+  }
+  .slider-item .image_aux_editor {
+    grid-row: 2;
+
+    margin-top: 200px;
+    padding-top: 600px;
+
+  }
+}
